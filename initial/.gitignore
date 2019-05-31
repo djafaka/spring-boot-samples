@@ -4,3 +4,13 @@
 .settings/
 bin/
 build/
+/.classpath
+/.project
+/out/
+/build/
+/gradle/
+/bin/
+/.vscode/
+/.idea/
+/.gradle/
+/.settings/
